@@ -1,4 +1,4 @@
-Project Title: Women as Financial Architects - Role of Female-Headed Households in Optimizing Foreign Remittance Utilization. 
+Project Title: Women as Financial Architects - Role of Female-Headed Households in Optimizing Foreign Remittance Utilization.
 About the Project:This is an academic research project focused on understanding how female-headed households manage and utilize foreign remittances. The study explores women's role as financial decision-makers in improving household economic welfare.
 Objective:To analyze the expenditure pattern, savings, and investment behavior of households receiving foreign remittances, which are led by women.
 Methodology:Conducted primary data collection through a structured survey of 60 respondents in Sulthan Bathery Thaluk , Wayanad,Kerala.Data cleaning, organization, and analysis were performed using Microsoft Excel.Used statistical tools like Median and Standard Deviation to understand spending variations.
